@@ -1,3 +1,4 @@
+//when the app is open for 20 seconds, the game should restart and count from new on. Right now, it does this one time, but the newelapsedtime won't reset
 using System;
 using System.Collections.Generic;
 using System.Text;

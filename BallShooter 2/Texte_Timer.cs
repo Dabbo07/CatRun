@@ -45,45 +45,26 @@ namespace BallShooter_2
             base.Update(gameTime);
 
 
-
-
-
-            // Has 1 second passed since we last updated the text?
-
-            while((int)gameTime.TotalGameTime.Seconds > _lastUpdateMilliseconds + 19)
-            {
-
-                 
-
                 // Find out exactly how much time has passed
                 newElapsedTime = (int)gameTime.TotalGameTime.Seconds - _lastUpdateMilliseconds;
 
-                // Build a message to display the details and set it into the Text property
-                _strBuilder.Length = 0;
 
-                //currentTime = (int)gameTime.TotalGameTime.Seconds;
-                limit = 20;
+                if (newElapsedTime > 20) {
+                    // Build a message to display the details and set it into the Text property
+                    _strBuilder.Length = 0;
 
-                _strBuilder.AppendLine("All is dust");
-                _strBuilder.AppendLine(limit.ToString());
-                _strBuilder.AppendLine(_lastUpdateMilliseconds.ToString());
-                Text = _strBuilder.ToString();
+                    //currentTime = (int)gameTime.TotalGameTime.Seconds;
+                    limit = 20;
 
-                if (newElapsedTime == 20)
-                {
+                    _strBuilder.AppendLine("All is dust");
+                    _strBuilder.AppendLine(limit.ToString());
+                    _strBuilder.AppendLine(_lastUpdateMilliseconds.ToString());
+                    Text = _strBuilder.ToString();
+
                     _strBuilder.AppendLine("Game over");
+                    _lastUpdateMilliseconds = (int)gameTime.TotalGameTime.Seconds; 
                     _game.ResetGame();
                 }
-
-
-                
-
-                //klimit = 20;
-
-                // Update the counters for use the next time we calculate
-                //counter = newCounter;
-                _lastUpdateMilliseconds = (int)gameTime.TotalGameTime.Seconds;
-
 
 
             }

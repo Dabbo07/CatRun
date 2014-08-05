@@ -1,0 +1,39 @@
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\Content\pink_blue.xnb
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\Content\crystal2.xnb
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\Content\shoot1.xnb
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\Content\cat2.xnb
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\Content\ball1.xnb
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\Content\Speech Off.xnb
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\Assets\ApplicationIcon.png
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\BallShooter 2.dll
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\BallShooter 2.pdb
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\AppManifest.xaml
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\Properties\WMAppManifest.xml
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\BallShooter_2_Release_ARM.xap
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\GameFramework_WP8.dll
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\MonoGame.Framework.dll
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\SharpDX.dll
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\SharpDX.Direct3D11.dll
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\SharpDX.XAudio2.dll
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\SharpDX.DXGI.dll
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\SharpDX.WP8.winmd
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\GameFramework_WP8.pdb
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\SharpDX.xml
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\SharpDX.Direct3D11.xml
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\SharpDX.XAudio2.xml
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\SharpDX.DXGI.xml
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\bin\WindowsPhone\ARM\Release\SharpDX.WP8.dll
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\obj\ARM\Release\BallShooter 4.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\obj\ARM\Release\App.g.cs
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\obj\ARM\Release\GamePage.g.cs
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\obj\ARM\Release\BallShooter 2.g.resources
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\obj\ARM\Release\BallShooter_2.Resources.AppResources.resources
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\obj\ARM\Release\BallShooter 4.csproj.GenerateResource.Cache
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\obj\ARM\Release\BallShooter 2.dll
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\obj\ARM\Release\BallShooter 2.pdb
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 4\BallShooter 2\obj\ARM\Release\XapCacheFile.xml

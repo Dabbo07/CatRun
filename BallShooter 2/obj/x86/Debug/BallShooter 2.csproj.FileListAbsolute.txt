@@ -1,0 +1,34 @@
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\bin\WindowsPhone\x86\Debug\Content\cat1.xnb
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\bin\WindowsPhone\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\bin\WindowsPhone\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\bin\WindowsPhone\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\bin\WindowsPhone\x86\Debug\BallShooter 2.dll
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\bin\WindowsPhone\x86\Debug\BallShooter 2.pdb
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\bin\WindowsPhone\x86\Debug\AppManifest.xaml
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\bin\WindowsPhone\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\bin\WindowsPhone\x86\Debug\BallShooter_2_Debug_x86.xap
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\bin\WindowsPhone\x86\Debug\GameFramework_WP8.dll
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\bin\WindowsPhone\x86\Debug\MonoGame.Framework.dll
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\bin\WindowsPhone\x86\Debug\SharpDX.dll
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\bin\WindowsPhone\x86\Debug\SharpDX.WP8.winmd
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\bin\WindowsPhone\x86\Debug\GameFramework_WP8.pdb
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\bin\WindowsPhone\x86\Debug\SharpDX.xml
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\bin\WindowsPhone\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\bin\WindowsPhone\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\bin\WindowsPhone\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\bin\WindowsPhone\x86\Debug\SharpDX.WP8.dll
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\obj\x86\Debug\BallShooter 2.csprojResolveAssemblyReference.cache
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\obj\x86\Debug\App.g.cs
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\obj\x86\Debug\GamePage.g.cs
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\obj\x86\Debug\BallShooter 2.g.resources
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\obj\x86\Debug\BallShooter_2.Resources.AppResources.resources
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\obj\x86\Debug\BallShooter 2.csproj.GenerateResource.Cache
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\obj\x86\Debug\BallShooter 2.dll
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\obj\x86\Debug\BallShooter 2.pdb
+C:\Users\Alexandra\Documents\Visual Studio 2012\Projects\BallShooter 2\BallShooter 2\obj\x86\Debug\XapCacheFile.xml
